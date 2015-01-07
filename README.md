@@ -2,6 +2,7 @@ cropme Angular Module
 ========================
 
 Drag and drop or select an image, crop it and get the blob, that you can use to upload wherever and however you want
+(this is a fork of the original work by standup75 with some minor changes)
 
 Install
 -------
